@@ -4,4 +4,4 @@ This library allow to get Material colors as Elm Color.
 
 ## Installation
 
-Run `elm-package install jpagex/elm-material-color`.
+Run `elm install jpagex/elm-material-color`.
